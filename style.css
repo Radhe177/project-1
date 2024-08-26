@@ -1,0 +1,107 @@
+html {
+    width: 1440px;
+    height: 2316px;
+    background: #FFF8F0;
+}
+
+#header {
+    width: 520px;
+    height: 20px;
+    top: 30px;
+    left: 190px;
+    display: flex;
+    width: 100%;
+    width: 50%;
+}
+
+
+.phone {
+    width: 250px;
+    height: 14px;
+    top: 33px;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    color: #000000;
+}
+
+.email {
+    width: 250px;
+    height: 14px;
+    top: 33px;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    color: #000000;
+    display: inline;
+    text-align: right;
+}
+
+.hi {
+    width: 135px;
+    margin-top: 30px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    color: #291854;
+}
+
+
+h1 {
+    width: 520px;
+    height: 150px;
+    font-family: League Spartan;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 50px;
+    color: #190D37;
+    margin-top: 0px;
+}
+
+
+.desc {
+    width: 520px;
+    height: 128px;
+    top: 308px;
+    left: 190px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    color: #331E6A;
+}
+
+button {
+    width: 138px;
+    height: 44px;
+    top: 456px;
+    left: 190px;
+    border-radius: 4px 0px 0px 0px;
+    background-color: black;
+
+}
+
+button .contact {
+    width: 90px;
+    height: 19px;
+    top: 468px;
+    left: 214px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+.pic {
+    width: 300px;
+    height: 200px;
+    top: 0px;
+    left: 730px;
+    border-radius: 0px 0px 200px 200px;
+}
+
+.img-wrapper {
+    width: 50%;
+}
+
+
+
